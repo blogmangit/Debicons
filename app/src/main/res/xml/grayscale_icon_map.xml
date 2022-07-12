@@ -589,4 +589,16 @@
     <icon drawable="@drawable/ytstudio" package="com.google.android.apps.youtube.creator" name="YouTube Studio" />
     <icon drawable="@drawable/zarchiver" package="ru.zdevs.zarchiver" name="ZArchiver" />
     <icon drawable="@drawable/zoom" package="us.zoom.videomeetings" name="Zoom" />
+    <icon drawable="@drawable/manager_mt" package="bin.mt.plus" name="Manager MT" />
+    <icon drawable="@drawable/v2flyng" package="com.v2ray.v2fly" name="v2fltNG" />
+    <icon drawable="@drawable/cmfa" package="com.github.metacubex.clash.meta" name="Clash Meta for Android" />
+    <icon drawable="@drawable/dashboard" package="com.dashboard.kotlin" name="Dashboard" />
+    <icon drawable="@drawable/webtoon" package="com.naver.linewebtoon" name="WebToon" />
+    <icon drawable="@drawable/qct" package="ru.fieldtest.modemcaps" name="Qct Modem" />
+    <icon drawable="@drawable/sdmaid" package="eu.thedarken.sdm" name="SD Maid" />
+    <icon drawable="@drawable/perekam_layar" package="com.kimcy929.screenrecorder" name="Perekm Layar" />
+       <icon drawable="@drawable/fkm" package="com.franco.kernel" name="Franco Kernel" />
+       <icon drawable="@drawable/scane5" package="com.omarea.vtools" name="Scane5" />
+       <icon drawable="@drawable/unofficial_telegram_stickers_for_whatsapp" package="com.dstukalov.watelegramstickers" name="Unofficial telegram stickers for WhatsApp" />
+       <icon drawable="@drawable/sim" package="com.android.stk" name="SIM" />
 </icons>
